@@ -11,5 +11,5 @@ Javascript, HTML, CSS...
 
 
 ## How to use
-- Netlify Link :- https://mohammedusman124.github.io/Wseather-app/index.html
+- Netlify Link :- https://mohammedusman124.github.io/Weather-app/index.html
     
